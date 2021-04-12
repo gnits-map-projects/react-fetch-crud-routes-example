@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "title": "Java training",
+      "where": "Webex",
+      "id": 1
+    },
+    {
+      "title": "React Training",
+      "where": "webex",
+      "id": 2
+    },
+    {
+      "title": "Watch Netflix movie",
+      "where": "netflix",
+      "id": 3
+    },
+    {
+      "title": "Learn Python",
+      "where": "Online",
+      "id": 4
+    }
+  ]
+}
